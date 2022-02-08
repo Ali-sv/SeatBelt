@@ -6,4 +6,4 @@ Use [seatbeltalert.ogg] Sound in intractsound source
 
 `interact_sound\client\html\sounds`
 
-And Then Set Trriger Sound 
+And Then Set TriggerEvent Sound 
