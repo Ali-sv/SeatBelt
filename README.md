@@ -1,2 +1,9 @@
-# SeatBelt
-Alisv-SeatBelt (iranian Sound) 
+# IMPORTANT  #
+
+Use [seatbeltalert.ogg] Sound in intractsound source
+
+# Example #
+
+`interact_sound\client\html\sounds`
+
+And Then Set Trriger Sound 
